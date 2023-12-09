@@ -1,3 +1,3 @@
 #!/bin/bash
-wget https://github.com/skurrrrr/service/self.service /etc/systemd/system/ ;
-wget https://github.com/skurrrrr/service/self.sh /usr/sbin
+wget https://raw.githubusercontent.com/skurrrrr/service/main/self.service /etc/systemd/system/ ;
+wget https://raw.githubusercontent.com/skurrrrr/service/main/self.sh /usr/sbin
